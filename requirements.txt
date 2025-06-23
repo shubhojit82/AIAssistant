@@ -1,0 +1,11 @@
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv
+schedule
+pytz
+python-dateutil
+pyttsx3
+SpeechRecognition
+pyaudio
